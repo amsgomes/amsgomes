@@ -1,5 +1,5 @@
 <h1 align="center">Oi 🌸, Eu sou Amanda</h1>
-<h3 align="center">Estudante de Engenharia de Computação apaixonada por IA.</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
